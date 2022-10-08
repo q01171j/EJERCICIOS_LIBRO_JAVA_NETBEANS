@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Adriano
  */
-public class ejercicio_1 {
+public class ejercicio_01 {
     public static void main(String[] args) {
         Scanner Entrada = new Scanner(System.in);
         int num,cuadrado;

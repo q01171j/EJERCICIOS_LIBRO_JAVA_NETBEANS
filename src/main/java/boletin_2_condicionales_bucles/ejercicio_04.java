@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author Adriano
  */
-public class ejercicio_4 {
+public class ejercicio_04 {
     public static void main(String[] args) {
         Scanner Entrada = new Scanner(System.in);
         int num, contador;
