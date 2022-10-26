@@ -11,4 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.estructura_datos_java.Estructura_datos_JAVA</exec.mainClass>
     </properties>
+    <name>estructura_datos_java_libro</name>
 </project>
